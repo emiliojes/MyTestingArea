@@ -1,30 +1,32 @@
 ---
-name: 🐛 Bug Report
-about: Create a report of error for help us to improve
-title: "[BUG] Short description"
+name: 🐞 Bug report
+about: Report a problem to help us improve
+title: "[BUG] "
 labels: bug
-assigness:
+assignees: ""
 ---
 
-**Describe the error**
-A short description of the error
+## 🐛 Description
+Describe the bug clearly.
 
-### Pasos para reproducir
-1. Ir a '...'
-2. Hacer clic en '...'
-3. Describir cualquier otra acción hasta que ocurra el problema.
-4. Error que aparece: '...'
+## 🔁 Steps to reproduce
+1. Go to...
+2. Click...
+3. See error
 
-### Comportamiento esperado
-Describe lo que esperabas que ocurriera al realizar los pasos anteriores.
+## ✅ Expected behavior
+What should happen?
 
-### Capturas de pantalla o registros
-Si es posible, añade capturas de pantalla o registros de errores.
+## ❌ Actual behavior
+What actually happens?
 
-### Entorno
-* Sistema operativo: [p. ej., Windows 10, macOS Catalina]
-* Navegador y versión: [p. ej., Chrome 87, Safari 14]
-* Versión del proyecto: [p. ej., 1.0.0] 
+## 📸 Screenshots
+If applicable, add screenshots.
 
-### Información adicional
-Cualquier otra información relevante.
+## 💻 Environment
+- OS:
+- Browser:
+- Version:
+
+## 📝 Additional context
+Add any other context.
