@@ -1,0 +1,15 @@
+/workspaces/MyTestingArea/testing/bin/Debug/net10.0/testing
+/workspaces/MyTestingArea/testing/bin/Debug/net10.0/testing.deps.json
+/workspaces/MyTestingArea/testing/bin/Debug/net10.0/testing.runtimeconfig.json
+/workspaces/MyTestingArea/testing/bin/Debug/net10.0/testing.dll
+/workspaces/MyTestingArea/testing/bin/Debug/net10.0/testing.pdb
+/workspaces/MyTestingArea/testing/obj/Debug/net10.0/testing.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/MyTestingArea/testing/obj/Debug/net10.0/testing.AssemblyInfoInputs.cache
+/workspaces/MyTestingArea/testing/obj/Debug/net10.0/testing.AssemblyInfo.cs
+/workspaces/MyTestingArea/testing/obj/Debug/net10.0/testing.csproj.CoreCompileInputs.cache
+/workspaces/MyTestingArea/testing/obj/Debug/net10.0/testing.sourcelink.json
+/workspaces/MyTestingArea/testing/obj/Debug/net10.0/testing.dll
+/workspaces/MyTestingArea/testing/obj/Debug/net10.0/refint/testing.dll
+/workspaces/MyTestingArea/testing/obj/Debug/net10.0/testing.pdb
+/workspaces/MyTestingArea/testing/obj/Debug/net10.0/testing.genruntimeconfig.cache
+/workspaces/MyTestingArea/testing/obj/Debug/net10.0/ref/testing.dll
